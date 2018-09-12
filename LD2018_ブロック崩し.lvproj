@@ -13,9 +13,11 @@
 		<Item Name="LD2018_ブロック崩し_BALL位置検出.vi" Type="VI" URL="../LD2018_ブロック崩し_BALL位置検出.vi"/>
 		<Item Name="LD2018_ブロック崩し_BALL移動座標.vi" Type="VI" URL="../LD2018_ブロック崩し_BALL移動座標.vi"/>
 		<Item Name="LD2018_ブロック崩し_Main.vi" Type="VI" URL="../LD2018_ブロック崩し_Main.vi"/>
+		<Item Name="LD2018_ブロック崩し_ブロック配置.vi" Type="VI" URL="../LD2018_ブロック崩し_ブロック配置.vi"/>
 		<Item Name="LD2018_ブロック崩し_ブロック範囲.vi" Type="VI" URL="../LD2018_ブロック崩し_ブロック範囲.vi"/>
 		<Item Name="LD2018_ブロック崩し_境界チェック.vi" Type="VI" URL="../LD2018_ブロック崩し_境界チェック.vi"/>
 		<Item Name="LD2018_ブロック崩し_当たり判定.vi" Type="VI" URL="../LD2018_ブロック崩し_当たり判定.vi"/>
+		<Item Name="LD2018_ブロック崩し_反射処理.vi" Type="VI" URL="../LD2018_ブロック崩し_反射処理.vi"/>
 		<Item Name="依存項目" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Acquire Input Data.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/inputDevices.llb/Acquire Input Data.vi"/>
@@ -31,6 +33,7 @@
 				<Item Name="Intialize Keyboard.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/inputDevices.llb/Intialize Keyboard.vi"/>
 				<Item Name="joystickAcquire.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/inputDevices.llb/joystickAcquire.vi"/>
 				<Item Name="keyboardAcquire.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/inputDevices.llb/keyboardAcquire.vi"/>
+				<Item Name="LVPositionTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVPositionTypeDef.ctl"/>
 				<Item Name="mouseAcquire.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/inputDevices.llb/mouseAcquire.vi"/>
 				<Item Name="Set Pen State.vi" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/Set Pen State.vi"/>
 				<Item Name="Write Delimited Spreadsheet (DBL).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Write Delimited Spreadsheet (DBL).vi"/>

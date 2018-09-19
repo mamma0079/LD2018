@@ -10,6 +10,7 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="LD2018_ブロック崩し_BallSpeed変化.vi" Type="VI" URL="../LD2018_ブロック崩し_BallSpeed変化.vi"/>
 		<Item Name="LD2018_ブロック崩し_BALL位置検出.vi" Type="VI" URL="../LD2018_ブロック崩し_BALL位置検出.vi"/>
 		<Item Name="LD2018_ブロック崩し_BALL移動座標.vi" Type="VI" URL="../LD2018_ブロック崩し_BALL移動座標.vi"/>
 		<Item Name="LD2018_ブロック崩し_Main.vi" Type="VI" URL="../LD2018_ブロック崩し_Main.vi"/>

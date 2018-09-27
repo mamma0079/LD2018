@@ -13,6 +13,7 @@
 		<Item Name="LD2018_ブロック崩し_BallSpeed変化.vi" Type="VI" URL="../LD2018_ブロック崩し_BallSpeed変化.vi"/>
 		<Item Name="LD2018_ブロック崩し_BALL位置検出.vi" Type="VI" URL="../LD2018_ブロック崩し_BALL位置検出.vi"/>
 		<Item Name="LD2018_ブロック崩し_BALL移動座標.vi" Type="VI" URL="../LD2018_ブロック崩し_BALL移動座標.vi"/>
+		<Item Name="LD2018_ブロック崩し_Command受取.vi" Type="VI" URL="../LD2018_ブロック崩し_Command受取.vi"/>
 		<Item Name="LD2018_ブロック崩し_Main.vi" Type="VI" URL="../LD2018_ブロック崩し_Main.vi"/>
 		<Item Name="LD2018_ブロック崩し_Stage.vi" Type="VI" URL="../LD2018_ブロック崩し_Stage.vi"/>
 		<Item Name="LD2018_ブロック崩し_ブロック配置.vi" Type="VI" URL="../LD2018_ブロック崩し_ブロック配置.vi"/>
